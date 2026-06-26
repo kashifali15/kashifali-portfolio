@@ -1,3 +1,7 @@
-# Kashif Ali Portfolio Website — Version 2.0
+# Kashif Ali Portfolio Website — Version 3.0
 
-Upload all files and folders to your GitHub repository `kashifali-portfolio`. Cloudflare Pages will redeploy automatically after commit.
+Includes Google Analytics, Search Console verification, sitemap.xml, robots.txt, Open Graph image, Twitter cards, structured data, professional email update, and resume download tracking.
+
+After deployment, submit this sitemap in Google Search Console:
+
+https://kashifali.info/sitemap.xml
