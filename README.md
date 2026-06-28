@@ -1,23 +1,15 @@
-# KashifAli.info — Launch Edition
+# KashifAli.info — Final Launch Rebuild
 
-This is the public-ready launch package.
+This package includes the final uploaded resume as assets/resume.pdf.
 
-Included:
-- Philosophy-first homepage
-- Professional portrait restored
-- Internal project name removed from public website
-- Reasonable hero font sizing for readability
+Confirmed fixes:
+- Final resume replaced in website package
+- Resume links updated on homepage and card page
+- Open Graph image metadata included
+- OG image dimensions included
+- Correct email, phone and WhatsApp link
+- Internal project name removed from website
 - KA logo links to home
-- /card.html digital business card
-- Correct email: kashif@kashifali.info
-- Correct phone/WhatsApp: +971 52 377 1715
-- Resume PDF
-- Open Graph image
-- WhatsApp card image
-- LinkedIn banner asset
-- sitemap.xml
-- robots.txt
-- Google Analytics
-- Google Search Console verification
+- sitemap.xml and robots.txt included
 
-Upload all files and folders in this ZIP to GitHub and redeploy Cloudflare Pages.
+Upload all files and folders from this ZIP to GitHub and redeploy Cloudflare Pages.
