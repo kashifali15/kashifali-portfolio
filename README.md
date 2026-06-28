@@ -1,7 +1,18 @@
-# Kashif Ali Portfolio Website — Version 3.0
+# Kashif Ali Executive Brand — Final v1.0
 
-Includes Google Analytics, Search Console verification, sitemap.xml, robots.txt, Open Graph image, Twitter cards, structured data, professional email update, and resume download tracking.
+This is the final philosophy-first website package.
 
-After deployment, submit this sitemap in Google Search Console:
+Confirmed direction:
+- Website opens with the philosophy, not the name.
+- Hero statement: "Finance should do more than explain business performance. It should improve it."
+- Kashif Ali appears as the person behind the philosophy.
+- Executive editorial tone, not a generic finance portfolio.
+- Includes digital business card page, Open Graph image, LinkedIn banner asset, WhatsApp card, resume, SEO, sitemap, robots, GA and Search Console verification.
 
-https://kashifali.info/sitemap.xml
+Upload all files/folders from this ZIP to GitHub and redeploy Cloudflare Pages.
+
+Main URLs after deployment:
+- https://kashifali.info/
+- https://kashifali.info/card.html
+- https://kashifali.info/sitemap.xml
+- https://kashifali.info/robots.txt

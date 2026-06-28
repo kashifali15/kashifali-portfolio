@@ -1,16 +1,9 @@
 {
-  "name": "Kashif Ali | Strategic Finance Leader",
+  "name": "Kashif Ali Executive Brand",
   "short_name": "Kashif Ali",
-  "description": "Executive portfolio website for Kashif Ali, Strategic Finance Leader.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f7f2e9",
-  "theme_color": "#2b2d2b",
-  "icons": [
-    {
-      "src": "assets/favicon.svg",
-      "sizes": "64x64",
-      "type": "image/svg+xml"
-    }
-  ]
+  "background_color": "#F7F2E9",
+  "theme_color": "#2B2D2B",
+  "description": "Finance should do more than explain business performance. It should improve it."
 }

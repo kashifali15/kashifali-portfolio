@@ -1,0 +1,18 @@
+{
+  "philosophy_first_hero": true,
+  "correct_email_index_and_card": true,
+  "correct_phone_index_and_card": true,
+  "correct_whatsapp_link": true,
+  "open_graph_image_file_present": true,
+  "open_graph_meta_points_to_image": true,
+  "google_analytics_present": true,
+  "search_console_verification_present": true,
+  "resume_present": true,
+  "profile_present": true,
+  "card_page_present": true,
+  "sitemap_present_and_has_card": true,
+  "robots_has_sitemap": true,
+  "linkedin_banner_present": true,
+  "whatsapp_card_present": true,
+  "qr_present": true
+}
