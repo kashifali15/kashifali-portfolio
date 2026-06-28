@@ -19,3 +19,11 @@
   .hero-highlight{font-size:44px}
   .tagline{font-size:23px}
 }
+
+/* Clean portrait update */
+.portrait-caption{display:none!important}
+.hero-portrait img{object-position:center top}
+.hero-editorial{gap:72px}
+@media(max-width:1080px){
+  .hero-editorial{gap:48px}
+}
