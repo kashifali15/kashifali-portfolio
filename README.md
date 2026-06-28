@@ -1,18 +1,23 @@
-# Kashif Ali Executive Brand — Final v1.0
+# KashifAli.info — Launch Edition
 
-This is the final philosophy-first website package.
+This is the public-ready launch package.
 
-Confirmed direction:
-- Website opens with the philosophy, not the name.
-- Hero statement: "Finance should do more than explain business performance. It should improve it."
-- Kashif Ali appears as the person behind the philosophy.
-- Executive editorial tone, not a generic finance portfolio.
-- Includes digital business card page, Open Graph image, LinkedIn banner asset, WhatsApp card, resume, SEO, sitemap, robots, GA and Search Console verification.
+Included:
+- Philosophy-first homepage
+- Professional portrait restored
+- Internal project name removed from public website
+- Reasonable hero font sizing for readability
+- KA logo links to home
+- /card.html digital business card
+- Correct email: kashif@kashifali.info
+- Correct phone/WhatsApp: +971 52 377 1715
+- Resume PDF
+- Open Graph image
+- WhatsApp card image
+- LinkedIn banner asset
+- sitemap.xml
+- robots.txt
+- Google Analytics
+- Google Search Console verification
 
-Upload all files/folders from this ZIP to GitHub and redeploy Cloudflare Pages.
-
-Main URLs after deployment:
-- https://kashifali.info/
-- https://kashifali.info/card.html
-- https://kashifali.info/sitemap.xml
-- https://kashifali.info/robots.txt
+Upload all files and folders in this ZIP to GitHub and redeploy Cloudflare Pages.
